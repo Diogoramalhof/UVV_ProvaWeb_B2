@@ -1,5 +1,5 @@
 // Prova do B2 da matéria de Construção de Software para Web
-// Aluno: Diogo Fardim Rmalho
+// Aluno: Diogo Fardim Ramalho
 // Turma: CC1MD
 
 
